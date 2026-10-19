@@ -19,5 +19,5 @@ venv/
 *.tmp
 *.log
 
-# Large dataset files
-data/*.csv
+# Large datasets and generated data
+data/
